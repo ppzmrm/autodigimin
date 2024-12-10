@@ -11,7 +11,7 @@ The wiring diagram is as follows:
 
 <img src="autodigimin_bb.png" alt="Wiring Diagram" width="500">
 
-(Note that there are two voltage buses in this breadboard design - 5v down the left to power amplifieer and poytentiometer, and 3.3v down the right to power the two ultrasonic sensors, so that their outputs are of the low voltage that the ESP32 requires)
+(Note that there are two voltage buses in this breadboard design - 5v down the left to power amplifier and potentiometer, and 3.3v down the right to power the two ultrasonic sensors, so that their outputs are of the low voltage that the ESP32 requires)
 
 The finished article should look a bit like this (note the snipped-off left-hand end of the digital potentiometer circuit board):
 
