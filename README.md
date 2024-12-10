@@ -15,6 +15,6 @@ The wiring diagram is as follows:
 
 The finished article should look a bit like this (note the snipped-off left-hand end of the digital potentiometer circuit board):
 
-<img src="IMG_1184.JPG" alt="Photo of the finished product" width="500">
+<img src="IMG_1196.JPG" alt="Photo of the finished product" width="500">
 
 And sound a bit <A href="IMG_1182%201.mov">like this</a>
