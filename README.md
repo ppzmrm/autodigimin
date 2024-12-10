@@ -11,7 +11,7 @@ The wiring diagram is as follows:
 
 <img src="autodigimin_bb.png" alt="Wiring Diagram" width="500">
 
-The finished article should look a bit like this:
+The finished article should look a bit like this (note the snipped-off left-hand end of the digital potentiometer circuit board):
 
 <img src="IMG_1184.JPG" alt="Photo of the finished product" width="500">
 
