@@ -23,4 +23,4 @@ Note that the <A href="miniautodigimin.ino">most up-to-date version of the code 
 
 <img src="IMG_1347.jpeg" alt="mini version" width="500">
 
-Now I just need to put the whole thin in a box!
+Now I just need to put the whole thing in a box!
