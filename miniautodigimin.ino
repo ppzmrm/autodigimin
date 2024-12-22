@@ -1,3 +1,10 @@
+// Digital Theremin project, now with more efficient autouning of notes, and a default tow two octaves in C Major (though other possibilities are included in comments)
+// Note that this version has been rejigged a little to use an ESP32 Mini, so some of the IO pins have been changed compared to the original version in the wiring diagram.
+// The comments should make clear what the new pin assignments are, and how they change the ultimate wiring.
+//
+// Have fun!
+//
+// Michael Merrifield
 
 // Includes libraries for tone generation, pitch definitions, distance sensors, and digital potentiometers
 //https://github.com/bhall66/DacTone
