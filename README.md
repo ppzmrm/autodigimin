@@ -18,3 +18,7 @@ The finished article should look a bit like this (note the snipped-off left-hand
 <img src="IMG_1196.JPG" alt="Photo of the finished product" width="500">
 
 And sound a bit <A href="IMG_1182%201.mov">like this</a>
+
+Note that the <A href="miniautodigimin.ino">most up-to-date version of the code in this repository</a>, which includes a more efficient form of autotuning and defaults to two octaves, has been rejigged a little to use an ESP32 mini, so I vcan fit the whole thing on a small circuit board.  This required a few pin allocations to be changed, to make use of the ones available on the ESP32 Mini I was using.
+
+<img src="IMG_1347.jpeg" alt="mini version" width="500">
