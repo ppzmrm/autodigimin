@@ -19,6 +19,8 @@ The finished article should look a bit like this (note the snipped-off left-hand
 
 And sound a bit <A href="IMG_1182%201.mov">like this</a>
 
-Note that the <A href="miniautodigimin.ino">most up-to-date version of the code in this repository</a>, which includes a more efficient form of autotuning and defaults to two octaves, has been rejigged a little to use an ESP32 mini, so I vcan fit the whole thing on a small circuit board.  This required a few pin allocations to be changed, to make use of the ones available on the ESP32 Mini I was using.
+Note that the <A href="miniautodigimin.ino">most up-to-date version of the code in this repository</a>, which includes a more efficient form of autotuning and defaults to two octaves, has been rejigged a little to use an ESP32 mini, so I can fit the whole thing on a small circuit board.  This required a few I/O pin allocations to be changed, to make use of the ones available on the ESP32 Mini I was using -- code is commented to make clear what the new allocations are.
 
 <img src="IMG_1347.jpeg" alt="mini version" width="500">
+
+Now I just need to put the whole thin in a box!
